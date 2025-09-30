@@ -10,11 +10,16 @@ Portfolio Website: https://kazirafidnur.github.io/
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS
+**Frontend:**
+- [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+- [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
-- **Backend:** Python
+**Backend:** 
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+- [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 
-- **Databases:** MySQL
+**Databases:** 
+- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ---
 
@@ -27,9 +32,9 @@ Portfolio Website: https://kazirafidnur.github.io/
 
 ## Reach out to me at
 
-- **Email:** kazirafid1010@gmail.com
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) : kazirafid1010@gmail.com
 
-- **LinkedIn:** https://www.linkedin.com/in/kazi-rafid-nur-ferdous/
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) : https://www.linkedin.com/in/kazi-rafid-nur-ferdous/
 
-- **GitHub:** https://github.com/kaziRAFIDnur
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) : https://github.com/kaziRAFIDnur
   
