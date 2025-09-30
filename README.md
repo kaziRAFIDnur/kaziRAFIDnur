@@ -14,9 +14,6 @@ Enthusiastic and driven undergraduate student pursuing a degree in Computer Scie
 
 - **Databases:** MySQL
 
-
-**Soft Skills:** Problem-solving, Team Collaboration, Critical Thinking, Adaptability and Time Management
-
 ---
 
 ## Experience
