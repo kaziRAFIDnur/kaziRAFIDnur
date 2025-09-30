@@ -4,6 +4,8 @@
 
 Enthusiastic and driven undergraduate student pursuing a degree in Computer Science and Engineering at BRAC University, with a passion for leveraging technology in order to solve societal issues and contribute towards creating a positive and meaningful impact with my work.
 
+Portfolio Website: https://kazirafidnur.github.io/
+
 ---
 
 ## Tech Stack
