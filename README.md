@@ -18,7 +18,7 @@ Enthusiastic and driven undergraduate student pursuing a degree in Computer Scie
 
 ## Experience
 
-- **General Member** of the Finance and Administration Department at Projukti Lipi
+- **General Member** of the **Finance and Administration** Department at **Projukti Lipi**
 - **Assistant Director** of the Event Management Department at BRAC University Chess Club (BUCHC)
 
 ---
@@ -30,5 +30,4 @@ Enthusiastic and driven undergraduate student pursuing a degree in Computer Scie
 - **LinkedIn:** https://www.linkedin.com/in/kazi-rafid-nur-ferdous/
 
 - **GitHub:** https://github.com/kaziRAFIDnur
-
-- **Portfolio Website** https://kazirafidnur.github.io/
+  
