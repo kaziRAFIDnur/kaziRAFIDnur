@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kazi Rafid Nur Ferdous
+# Hi there 👋, I'm Kazi Rafid Nur Ferdous
 
 ## About Me
 
